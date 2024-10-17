@@ -65,3 +65,12 @@
     .input-box .input-field {
         width: 49%;
     }
+    
+    form button {
+        padding: 12px 30px;
+        border: none;
+        outline: none;
+        background-color: aqua;
+        border-radius: 6px;
+        font-size: 18px;
+    }
